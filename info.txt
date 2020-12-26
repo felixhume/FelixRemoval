@@ -5,3 +5,4 @@ V2
 Run the file
 SLICK N QUICK
 Save your data, run the file
+**SLICK N QUICK WILL RESTART YOUR COMPUTER. BE CAREFUL FOR UNSAVED DATA**

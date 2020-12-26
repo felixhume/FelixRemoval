@@ -1,5 +1,5 @@
 INFO
 STANDARD EDITION
 Run the file and restart your computer
-PRO EDITION
-Run the file, and it will walk you through it
+V2
+Save your data, run the file*COMING SOON*

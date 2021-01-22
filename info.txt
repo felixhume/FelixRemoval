@@ -1,4 +1,5 @@
 INFO
+>This watermark removal tool lasts for approx. 2 hours. Run it again to re apply. 
 STANDARD EDITION
 Run the file and restart your computer
 V2
